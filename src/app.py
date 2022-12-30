@@ -2,7 +2,6 @@ from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
-from apps import general, about
 import dash
 
 FA = "https://use.fontawesome.com/releases/v5.12.1/css/all.css"
