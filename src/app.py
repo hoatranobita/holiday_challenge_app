@@ -3,6 +3,7 @@ from dash import html
 from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
 import dash
+import general, about
 
 FA = "https://use.fontawesome.com/releases/v5.12.1/css/all.css"
 FA2 = "https://use.fontawesome.com/releases/v6.0.0/css/all.css"
